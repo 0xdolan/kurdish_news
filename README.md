@@ -1,6 +1,6 @@
-## Kurdish News
+# Kurdish News
 
-# Kurdish News text corpus parsed from:
+## Kurdish News text corpus parsed from:
 - [NRT](http://www.nrttv.com)
 - [Westga News](http://www.westganews.net)
 - [NNSROJ](http://www.nnsroj.com/)
@@ -9,5 +9,5 @@
 - [Kurdistan Post](https://www.kurdistanpost.nu)
 
 
-# More data will be uploaded soon ...
+## More data will be uploaded soon ...
 
