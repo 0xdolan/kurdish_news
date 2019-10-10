@@ -7,6 +7,7 @@
 - [Peyam](http://payam.tv/)
 - [PUK Media](https://www.pukmedia.com)
 - [Kurdistan Post](https://www.kurdistanpost.nu)
+- [ANF - Sorani](https://anfsorani.com/)
 
 
 ## More data will be uploaded soon ...
