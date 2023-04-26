@@ -1,5 +1,7 @@
 # Kurdish News
 
+In any issues with downloading the data, check Kaggle link: [Kurdish News CKB](https://www.kaggle.com/datasets/zeroxdolan/kurdish-news-ckb)
+
 ## Kurdish News text corpus parsed from:
 
 - [NRT](http://www.nrttv.com) - Arabic-based alphabet
